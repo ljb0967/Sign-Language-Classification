@@ -2,7 +2,7 @@
 - Drop-In Replacement for MNIST for Hand Gesture Recognition Tasks
 - pre-trained VGG16
 
-  # epoch 5 -> 10 늘렸을때, 성능 향상
+# epoch 5 -> 10 늘렸을때, 성능 향상
 
 - 주의사항 (필독)
 - 제출 시, 입력값의 타입 확인 요망 (submit.csv의 열 데이터별 타입)
